@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to bottom, #87CEEB, #98FF98);
+}
+.stApp {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+}
